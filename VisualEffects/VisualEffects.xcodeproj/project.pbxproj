@@ -14,6 +14,8 @@
 		506AB0711B7083AC0015B727 /* VisualEffectsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506AB0701B7083AC0015B727 /* VisualEffectsTests.swift */; };
 		506AB07B1B7083DE0015B727 /* TransformControlsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506AB07A1B7083DE0015B727 /* TransformControlsViewController.swift */; };
 		506AB07D1B7083ED0015B727 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 506AB07C1B7083ED0015B727 /* ViewController.swift */; };
+		506AB0801B708DD70015B727 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = 506AB07E1B708DD70015B727 /* LICENSE.txt */; };
+		506AB0811B708DD70015B727 /* PermanentMarker.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 506AB07F1B708DD70015B727 /* PermanentMarker.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		506AB0701B7083AC0015B727 /* VisualEffectsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectsTests.swift; sourceTree = "<group>"; };
 		506AB07A1B7083DE0015B727 /* TransformControlsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TransformControlsViewController.swift; sourceTree = "<group>"; };
 		506AB07C1B7083ED0015B727 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		506AB07E1B708DD70015B727 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
+		506AB07F1B708DD70015B727 /* PermanentMarker.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PermanentMarker.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +83,8 @@
 		506AB0571B7083AC0015B727 /* VisualEffects */ = {
 			isa = PBXGroup;
 			children = (
+				506AB07E1B708DD70015B727 /* LICENSE.txt */,
+				506AB07F1B708DD70015B727 /* PermanentMarker.ttf */,
 				506AB05A1B7083AC0015B727 /* AppDelegate.swift */,
 				506AB07C1B7083ED0015B727 /* ViewController.swift */,
 				506AB07A1B7083DE0015B727 /* TransformControlsViewController.swift */,
@@ -195,8 +201,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				506AB0801B708DD70015B727 /* LICENSE.txt in Resources */,
 				506AB0601B7083AC0015B727 /* Main.storyboard in Resources */,
 				506AB0651B7083AC0015B727 /* LaunchScreen.xib in Resources */,
+				506AB0811B708DD70015B727 /* PermanentMarker.ttf in Resources */,
 				506AB0621B7083AC0015B727 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
